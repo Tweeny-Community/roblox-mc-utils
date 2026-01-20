@@ -1,5 +1,5 @@
 # Ambar Documentation
-[![GitHub stars](https://img.shields.io/github/Stars/Tweeny-Community/roblox-mc-utils?style=square)](https://github.com/Tweeny-Community/roblox-mc-utils/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Tweeny-Community/roblox-mc-utils?style=square)](https://github.com/Tweeny-Community/roblox-mc-utils/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-CC0-orange?style=flat)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![GitHub forks](https://img.shields.io/github/forks/Tweeny-Community/roblox-mc-utils?style=square)](https://github.com/Tweeny-Community/roblox-mc-utils/network/members)
 
