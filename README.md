@@ -2,6 +2,8 @@
 
 The Ambar Documentation is a documentation which includes the tooling we use everyday for our projects, in minecraft. There are 17 different sections where we, at Tweeny contribute to the Minecraft Community.
 
+💗 Please follow the Code Of Conduct before making a pull-request!
+
 Looking to contribute? No? We can help you get started.
 
 ## Minecraft Colors
@@ -22,3 +24,9 @@ MiniMessage is a simple string representation of chat components, originally mad
 
 
 For the full documentation, see [the papermc kyori adventure documentation](https://docs.papermc.io/adventure/minimessage/).
+
+# Custom Gradients.
+Since 1.17, with the come of hex coloring, gradients also came to Minecraft. To use a gradient you must concatenate a normal hex color, a example is:
+`§x§0§0§8§8§F§FC§x§1§4§9§1§F§Fo§x§2§7§9§A§F§Fo§x§3§B§A§3§F§Fl §x§6§2§B§6§F§FG§x§7§6§B§F§F§Fr§x§8§9§C§8§F§Fa§x§9§D§D§1§F§Fd§x§B§1§D§A§F§Fi§x§C§4§E§4§F§Fe§x§D§8§E§D§F§Fn§x§E§B§F§6§F§Ft§x§F§F§F§F§F§F!` To make gradients, it's recommendated to use a Page, such as a Minecraft Gradient  Creator or [Birdflop](https://www.birdflop.com/resources/rgb/).
+
+
