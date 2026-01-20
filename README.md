@@ -1,4 +1,8 @@
 # Ambar Documentation
+[![GitHub stars](https://img.shields.io/github/stars/Vaporu7x/mi-proyecto?style=square)](https://github.com/Vaporu7x/mi-proyecto/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-CC0-blue?style=flat)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![GitHub forks](https://img.shields.io/github/forks/Vaporu7x/mi-proyecto?style=square)](https://github.com/Tweeny-Community/roblox-mc-utils/network/members)
+[![Build Status](https://github.com/Tweeny-Community/roblox-mc-utils/ci.yml?style=square)](https://github.com/Tweeny-Community/roblox-mc-utils/actions)
 
 The Ambar Documentation is a documentation which includes the tooling we use everyday for our projects, in minecraft. There are 17 different sections where we, at Tweeny contribute to the Minecraft Community.
 
