@@ -5,7 +5,10 @@
 
 This repository includes the tooling for Minecraft Projects. This documentation features 17 sections for the Minecraft Community including colors, lore, and much more.
 
-> [!important]
+<!-- leave close cause of marketing -->
+Ambar unifies information from various sources, including **Mojang**, **WikiPedia**, **Wiki.gg**. Ambar serves as a central archive, featuring information previously scaterred across the internet to provide a simple, but not exhaustive resource.
+
+> [!warning]
 > Please follow the __Code Of Conduct__ before submitting a pull request.
 
 Looking to contribute? See all of the rules.
