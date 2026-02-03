@@ -17,7 +17,7 @@ Contributors must keep the original License inside the repository. See [LICENSE.
 
 Minecraft features a total of 17 color codes and additional formatting codes for bold, italics, and underlines. These colors range from **Black** to **White.**
 
-![Color_table](https://raw.githubusercontent.com/Tweeny-Community/roblox-mc-utils/main/assets/learning/Minecraft_Formatting.webp)
+![Color_table](https://raw.githubusercontent.com/Tweeny-Community/roblox-mc-utils/refs/heads/main/assets/learning/Minecraft_Formatting.webp)
 
 Apply these color codes with the `§` symbol, followed by the correct following character or number e.g., §f, §4, §0. In some cases, if the color cannot be applied with the `§` symbol, use the `&` symbol instead. 
 
