@@ -3,11 +3,12 @@
 [![GitHub license](https://img.shields.io/badge/license-CC0-orange?style=flat)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![GitHub forks](https://img.shields.io/github/forks/Tweeny-Community/roblox-mc-utils?style=square)](https://github.com/Tweeny-Community/roblox-mc-utils/network/members)
 
-The Ambar Documentation is a documentation which includes the tooling we use everyday for our projects, in minecraft. There are 17 different sections where we, at Tweeny contribute to the Minecraft Community.
+This repository includes the tooling for Minecraft Projects. This documentation features 17 sections for the Minecraft Community including colors, lore, and much more.
 
-💗 Please follow the Code Of Conduct before making a pull-request!
+> [!important]
+> Please follow the __Code Of Conduct__ before submitting a pull request.
 
-Looking to contribute? No? We can help you get started.
+Looking to contribute? See all of the rules.
 
 ## Minecraft Colors
 
