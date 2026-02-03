@@ -19,7 +19,7 @@ Minecraft features a total of 17 color codes and additional formatting codes for
 
 ![Color_table](https://raw.githubusercontent.com/Tweeny-Community/roblox-mc-utils/refs/heads/main/assets/learning/Minecraft_Formatting.webp)
 
-Apply these color codes with the `§` symbol, followed by the corresponding character or number (for example, §f, §4, §0). In some cases, if the color cannot be applied with the `§` symbol, use the `&` symbol instead. 
+Apply these color codes with the `§` symbol, followed by the corresponding character or number (for example: §f, §4, §0). In some cases, if the color cannot be applied with the `§` symbol, use the `&` symbol instead. 
 
 Minecraft supports custom colors since 1.16, which can be useful for servers. Apply a custom hex color with the `§f§f§0§0§0§0` format.
 
