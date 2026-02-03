@@ -6,12 +6,14 @@
 This repository includes the tooling for Minecraft Projects. This documentation features 17 sections for the Minecraft Community including colors, lore, and much more.
 
 <!-- leave close cause of marketing -->
-Ambar unifies information from various sources, including **Mojang**, **WikiPedia**, **Wiki.gg**. Ambar serves as a central archive, featuring information previously scaterred across the internet to provide a simple, but not exhaustive resource.
+The Ambar Documentation unifies information from various sources, including **Mojang**, **Wikipedia**, and **Wiki.gg**. Ambar serves as a central archive, featuring information previously scattered across the internet to provide a simple, but not exhaustive resource.
 
-> [!warning]
-> Please follow the __Code Of Conduct__ before submitting a pull request.
+## License
+Ambar is licensed under the CC-BY 4.0 License, providing enough access to copy, use, modify, and share. Before submitting a pull request, users must accept the License.
 
-Looking to contribute? See all of the rules.
+Contributors must keep the original License inside the repository.
+
+See [LICENSE.md](./LICENSE.md) for the full License.
 
 ## Minecraft Colors
 
